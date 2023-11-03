@@ -1,4 +1,4 @@
-# tableau
+# TABLEAU DASHBOARD
 Tableau Data Visualization Practice
 
 Tableau Public URLs
