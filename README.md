@@ -8,3 +8,4 @@ Tableau Public URLs
 3. Billboard Hot 100 Analytics : https://public.tableau.com/app/profile/pooja.math/viz/BillboardHot100Analytics_16626338053290/BillboardHot100Analytics
 4. World GDP and Population Analysis : https://public.tableau.com/app/profile/pooja.math/viz/WorldGDPPopulationAnalysis/WorldGDPPopulationAnalysis
 5. US Colleges Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/USCollegesDashboard/USCollegesDashboard
+6. FIFA 19 Players Comparison : https://public.tableau.com/app/profile/pooja.math/viz/FIFA19PlayersComparison_16631818553030/FIFA19PlayersComparison
