@@ -9,3 +9,4 @@ Tableau Public URLs
 4. World GDP and Population Analysis : https://public.tableau.com/app/profile/pooja.math/viz/WorldGDPPopulationAnalysis/WorldGDPPopulationAnalysis
 5. US Colleges Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/USCollegesDashboard/USCollegesDashboard
 6. FIFA 19 Players Comparison : https://public.tableau.com/app/profile/pooja.math/viz/FIFA19PlayersComparison_16631818553030/FIFA19PlayersComparison
+7. Olympics Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/OlympicsDashboard_16632531105030/OlympicsDashboard
