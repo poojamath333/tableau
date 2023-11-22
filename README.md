@@ -14,3 +14,4 @@ Tableau Public URLs
 9. Multiple Donut Chart : https://public.tableau.com/app/profile/pooja.math/viz/MultipleDonutChart_16794249334820/MultipleDonutChart
 10. IPL Superstars : https://public.tableau.com/app/profile/pooja.math/viz/IPLSuperstars/IPLSuperstars
 11. Olympic Medals : https://public.tableau.com/app/profile/pooja.math/viz/OlympicMedals_16859055731330/OlympicMedals
+12. HR Analytics Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/HRAnalyticsDashboard_16890071093980/HRAnalyticsDashboard
