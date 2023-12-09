@@ -19,3 +19,4 @@ Tableau Public URLs
 14. Sales Win Loss Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/SALESWINLOSSDASHBOARD_16924633038440/SalesWinLossDashboard
 15. X Tweets Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/XTwiiterTweetsDashboard/XTwitterTweetsDashboard
 16. NYC Pizza Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/NYCPizzaDashboard_16926882641740/NYCPizzaDashboard
+17. Covid - 19 Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/Covid-19Dashboard_16928822003970/Covid-19
