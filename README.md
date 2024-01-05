@@ -20,3 +20,4 @@ Tableau Public URLs
 15. X Tweets Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/XTwiiterTweetsDashboard/XTwitterTweetsDashboard
 16. NYC Pizza Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/NYCPizzaDashboard_16926882641740/NYCPizzaDashboard
 17. Covid - 19 Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/Covid-19Dashboard_16928822003970/Covid-19
+18. Netflilx Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/NetflixDashboard_16933010326620/NetflixDashboard
