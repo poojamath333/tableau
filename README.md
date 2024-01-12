@@ -22,3 +22,4 @@ Tableau Public URLs
 17. Covid - 19 Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/Covid-19Dashboard_16928822003970/Covid-19
 18. Netflilx Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/NetflixDashboard_16933010326620/NetflixDashboard
 19. Multi-Chart Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/Multi-ChartDashboard_16889080998400/Multi-ChartDashboard
+20. Global Electric Vehicle Market Share : https://public.tableau.com/app/profile/pooja.math/viz/GlobalElectricVehicleMarketShare_17050581293430/GlobalElectricVehicleMarketShare
