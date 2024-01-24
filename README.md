@@ -26,3 +26,4 @@ Tableau Public URLs
 21. Line Charts: https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts1_16798300232260/LineCharts
 22. Bar Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts2_16798301841150/BarCharts
 23. Bar in Bar Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts3_16798302860880/Columnchartwithshapes
+24. Heat Maps : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts4/HeatMaps
