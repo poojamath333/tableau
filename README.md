@@ -23,6 +23,6 @@ Tableau Public URLs
 18. Netflilx Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/NetflixDashboard_16933010326620/NetflixDashboard
 19. Multi-Chart Dashboard : https://public.tableau.com/app/profile/pooja.math/viz/Multi-ChartDashboard_16889080998400/Multi-ChartDashboard
 20. Global Electric Vehicle Market Share : https://public.tableau.com/app/profile/pooja.math/viz/GlobalElectricVehicleMarketShare_17050581293430/GlobalElectricVehicleMarketShare
-21. Line Charts
-22. Bar Charts
-23. Bar in Bar Charts
+21. Line Charts: https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts1_16798300232260/LineCharts
+22. Bar Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts2_16798301841150/BarCharts
+23. Bar in Bar Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts3_16798302860880/Columnchartwithshapes
