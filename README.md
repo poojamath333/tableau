@@ -29,3 +29,4 @@ Tableau Public URLs
 24. Heat Maps : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts4/HeatMaps
 25. Pie Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts6/Dashboard6
 26. Sort dimensions with single click : https://public.tableau.com/app/profile/pooja.math/viz/Sortdimenionswithsingleclick/Sortdimensionswithsingleclick
+27. Dynamic Bar Chart : https://public.tableau.com/app/profile/pooja.math/viz/DynamicBarChart_17065319316050/DynamicBarChart
