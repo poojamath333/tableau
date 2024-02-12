@@ -32,3 +32,4 @@ Tableau Public URLs
 27. Dynamic Bar Chart : https://public.tableau.com/app/profile/pooja.math/viz/DynamicBarChart_17065319316050/DynamicBarChart
 28. Map Chart : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts7/Dashboard7
 29. Other Charts : https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts8/Dashboard8
+30. https://public.tableau.com/app/profile/pooja.math/viz/TypesofCharts9/Dashboard9
